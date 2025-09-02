@@ -1,0 +1,2 @@
+# StrengthFinderGameInfo
+StrengthFinderGame
