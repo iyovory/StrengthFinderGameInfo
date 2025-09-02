@@ -1,7 +1,5 @@
 # 개인정보 처리방침 (Privacy Policy)
 
-# 앱 이름: StrengthFinderGameInfo
-
 **앱 이름: 마법 물약 능력치 테스트 (Magic Potion Strength Test)**
 
 본 앱은 사용자의 질문에 대한 답변 데이터를 기반으로 결과(강점 및 직업 추천)를 제공합니다.
